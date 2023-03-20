@@ -43,7 +43,34 @@
                 "Type": 1,
                 "Asset": {
                     "fileID": 2800000,
-                    "guid": "fa48fd56e29ab9f4ab5c728ff6e6e35f",
+                    "guid": "fc6bd22a679b2c04c90cd8eb81650f5e",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "icon_1",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "eb1031e51c3b2ce4cb5aac30bdda59d7",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "icon_2",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "88f47041127031548a4a7361556db428",
+                    "type": 3
+                }
+            },
+            {
+                "Id": "icon_3",
+                "Type": 1,
+                "Asset": {
+                    "fileID": 2800000,
+                    "guid": "0f6f68d77347e144bac947265ca03ac1",
                     "type": 3
                 }
             }
